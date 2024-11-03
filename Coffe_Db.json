@@ -1,5 +1,4 @@
-{
-  "coffees": [
+[
     {
       "id_coffee": 1,
       "title_coffee": "Caffè Latte",
@@ -71,4 +70,3 @@
       "img_coffee": "https://github.com/B-M-Fachril/host472_api/blob/main/mocha_frappuccino_poster.jpg"
     }
   ]
-}
