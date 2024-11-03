@@ -10,29 +10,29 @@
       "id_coffee": "2",
       "title_coffee": "Cappuccino",
       "detail_coffee": "Espresso with steamed milk, topped with a deep layer of foam.",
-      "thumbnail_coffee": "https://github.com/B-M-Fachril/host472_api/blob/main/cappuccino_thumbnail.png",
-      "img_coffee": "https://github.com/B-M-Fachril/host472_api/blob/main/cappuccino_poster.jpg"
+      "thumbnail_coffee": "https://b-m-fachril.github.io/host472_api/blob/main/cappuccino_thumbnail.png",
+      "img_coffee": "https://b-m-fachril.github.io/host472_api/blob/main/cappuccino_poster.jpg"
     },
     {
       "id_coffee": "3",
       "title_coffee": "Caffè Mocha",
       "detail_coffee": "Espresso with bittersweet mocha sauce and steamed milk.topped with sweetened whipped cream. Delightful.",
-      "thumbnail_coffee": "https://github.com/B-M-Fachril/host472_api/blob/main/caffe_mocha_thumbnail.png",
-      "img_coffee": "https://github.com/B-M-Fachril/host472_api/blob/main/caffe_mocha_poster.jpg"
+      "thumbnail_coffee": "https://b-m-fachril.github.io/host472_api/blob/main/caffe_mocha_thumbnail.png",
+      "img_coffee": "https://b-m-fachril.github.io/host472_api/blob/main/caffe_mocha_poster.jpg"
     },
     {
       "id_coffee": "4",
       "title_coffee": "Caramel Macchiato",
       "detail_coffee": "Espresso combined with vanilla-flavoured syrup.milk and caramel sauce over ice. A Starbucks classic.chilled for a classic summers day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; its then topped with our proprietary buttery caramel sauce. Sweet!",
-      "thumbnail_coffee": "https://github.com/B-M-Fachril/host472_api/blob/main/caramel_macchiato_thumbnail.png",
-      "img_coffee": "https://github.com/B-M-Fachril/host472_api/blob/main/caramel_macchiato_poster.jpg"
+      "thumbnail_coffee": "https://b-m-fachril.github.io/host472_api/blob/main/caramel_macchiato_thumbnail.png",
+      "img_coffee": "https://b-m-fachril.github.io/host472_api/blob/main/caramel_macchiato_poster.jpg"
     },
     {
       "id_coffee": "5",
       "title_coffee": "Vanilla Sweet Cream Cold Brew",
       "detail_coffee": "our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup",
-      "thumbnail_coffee": "https://github.com/B-M-Fachril/host472_api/blob/main/vanilla_sweet_cream_cold_brew_thumbnail.png",
-      "img_coffee": "https://github.com/B-M-Fachril/host472_api/blob/main/vanilla_sweet_cream_cold_brew_poster.jpg"
+      "thumbnail_coffee": "https://b-m-fachril.github.io/host472_api/blob/main/vanilla_sweet_cream_cold_brew_thumbnail.png",
+      "img_coffee": "https://b-m-fachril.github.io/host472_api/blob/main/vanilla_sweet_cream_cold_brew_poster.jpg"
     },
     {
       "id_coffee": "6",
